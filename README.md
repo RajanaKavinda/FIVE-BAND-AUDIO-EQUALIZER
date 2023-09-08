@@ -6,11 +6,10 @@ low, high, and mid-range frequencies of the audio
 stream, it will thus contain low, high, and band-pass
 filter circuits. Our circuits contains operational
 amplifier-based active filters (op-amps) and has
-capable of adding gains in 5 frequency bands 20-300
-Hz , 300 - 1 kHz, 1kHz - 4 kHz , 4kHz - 10kHz , 10kHz
-- 20kHz.
+capable of adding gains in 5 frequency bands 
+20-300Hz , 300 - 1 kHz, 1kHz - 4 kHz , 4kHz - 10kHz , 10kHz- 20kHz.
 
-- 
+
 ![Final](https://github.com/RajanaKavinda/FIVE-BAND-EQUALIZER-Projects/assets/91953272/1a4c98c7-2850-4351-a79e-3bb9302491df)
 ![3bf863e31ed44eaad238e918b8692a945d1e4bf0](https://github.com/RajanaKavinda/FIVE-BAND-EQUALIZER-Projects/assets/91953272/079a8bd4-e2d1-4d65-ad2b-aedfecb0492a)
 ![1927eb1b40b381df281d96424334a21c71da3e54](https://github.com/RajanaKavinda/FIVE-BAND-EQUALIZER-Projects/assets/91953272/e5ccf89b-a928-4169-a530-5506ea6483fb)
